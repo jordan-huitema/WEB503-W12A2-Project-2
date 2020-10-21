@@ -55,6 +55,12 @@ h1 {
     outline: 0;
 }
 
+.controls .fa-play,
+.controls .fa-stop,
+.controls .fa-pause {
+    color: rgb(197, 197, 197) !important;
+}
+
 @media (max-width: 800px) {
     .screen,
     .controls {
